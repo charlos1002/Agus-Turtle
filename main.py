@@ -5,6 +5,7 @@ import os # Tambahkan import os untuk menggabungkan path
 
 def main():
     pygame.init()
+    pygame.mixer.init()
 
     #logo
     try:

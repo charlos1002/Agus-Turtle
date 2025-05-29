@@ -25,3 +25,7 @@ IMAGES_DIR  = ASSETS_DIR + "/images"
 # Menu
 MENU_ITEMS       = ["Start Game", "Options", "Exit"]
 LEVELS           = ["Level 1","Level 2","Level 3"]  # bisa ditambah Level 2, dst.
+
+ASSETS_DIR  = "assets"
+IMAGES_DIR  = ASSETS_DIR + "/images"
+SOUNDS_DIR  = ASSETS_DIR + "/sounds"
